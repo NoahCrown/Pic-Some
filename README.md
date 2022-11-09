@@ -1,4 +1,10 @@
-# coecb4bec82cff1aa8f22512e
+# Pic - Some
+The online gallery and design marketplace Pic Some. Discover the top artists, galleries, and museums in the globe and purchase their works of art.
+
+* HTML
+* CSS
+* JavaScript
+* React
 
 Quick start:
 
@@ -14,15 +20,12 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 ```
 $ yarn watch # npm run watch
 ```
+![image](https://user-images.githubusercontent.com/91674419/200899974-add7a491-68c0-46b4-ad6c-e9faa02f41ec.png)
 
-## About Scrimba
+![image](https://user-images.githubusercontent.com/91674419/200900007-0aa7b1d6-29d3-482f-8a65-dc37df08d0f0.png)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+![image](https://user-images.githubusercontent.com/91674419/200900095-0f8432ce-1bdc-437f-95f0-e54f68cbad58.png)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+This website serves as a capstone project for the scrimba course "Advance React". It helps me understand how useful context and hooks are. It showed how to be proficient and dry with your code and be a better programmer after all. This serves as a big lesson for me and other students as it tackles all of the advance react concepts and made me understand all of it. 
 
-Happy Coding!
+
